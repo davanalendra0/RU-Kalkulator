@@ -10,7 +10,7 @@ Kalkulator web sederhana untuk mengkonversi suhu antara Celsius (°C), Fahrenhei
 
 <h1>Cara Penggunaan</h1>
 <ol>
-  <li>Buka (https://kalkulator-ivory.vercel.app/).</li>
+  <li>Buka (https://calculator-ru.vercel.app/).</li>
   <li><b>Masukkan Suhu</b>: Ketik nilai suhu yang ingin Anda konversi.</li>
   <li><b>Pilih Satuan Asal</b>: Tentukan satuan suhu dari nilai yang Anda masukkan (Celsius, Fahrenheit, atau Kelvin).</li>
   <li><b>Pilih Satuan Tujuan</b>: Tentukan satuan suhu yang ingin Anda tuju.</li>
